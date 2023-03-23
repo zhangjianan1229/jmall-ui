@@ -22,11 +22,11 @@
           >
           <br />
           阿里云服务器折扣区
-          <el-link href="http://aly.jmall.vip" type="primary" target="_blank"
+          <el-link href="http://aly.ruoyi.vip" type="primary" target="_blank"
             >>☛☛点我进入☚☚</el-link
           >
           &nbsp;&nbsp;&nbsp; 腾讯云服务器秒杀区
-          <el-link href="http://txy.jmall.vip" type="primary" target="_blank"
+          <el-link href="http://txy.ruoyi.vip" type="primary" target="_blank"
             >>☛☛点我进入☚☚</el-link
           ><br />
           <h4 class="text-danger">
@@ -55,14 +55,14 @@
             size="mini"
             icon="el-icon-cloudy"
             plain
-            @click="goTarget('https://gitee.com/y_project/JMall-Cloud')"
+            @click="goTarget('https://gitee.com/y_project/RuoYi-Cloud')"
             >访问码云</el-button
           >
           <el-button
             size="mini"
             icon="el-icon-s-home"
             plain
-            @click="goTarget('http://jmall.vip')"
+            @click="goTarget('http://ruoyi.vip')"
             >访问主页</el-button
           >
         </p>
@@ -112,16 +112,18 @@
           <div class="body">
             <p>
               <i class="el-icon-s-promotion"></i> 官网：<el-link
-                href="http://www.jmall.vip"
+                href="http://www.ruoyi.vip"
                 target="_blank"
-                >http://www.jmall.vip</el-link
+                >http://www.ruoyi.vip</el-link
               >
             </p>
             <p>
-              <i class="el-icon-user-solid"></i> QQ群：<s>满42799195</s> <s>满170157040</s>
-              <s>满130643120</s> <s>满225920371</s> <s>满201705537</s> <s>满236543183</s>
-              <s>满213618602</s> <s>148794840</s> <a href="https://jq.qq.com/?_wv=1027&k=MtBy6YfT" target="_blank">
-                118752664</a
+              <i class="el-icon-user-solid"></i> QQ群：<s>满42799195</s>
+              <s>满170157040</s> <s>满130643120</s> <s>满225920371</s>
+              <s>满201705537</s> <s>满236543183</s> <s>满213618602</s>
+              <s>满148794840</s> <s>满118752664</s>
+              <a href="https://jq.qq.com/?_wv=1027&k=FqImHgH2" target="_blank"
+                >101038945</a
               >
             </p>
             <p>

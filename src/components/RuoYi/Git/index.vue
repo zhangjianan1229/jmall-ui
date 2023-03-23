@@ -6,10 +6,10 @@
 
 <script>
 export default {
-  name: 'JMallGit',
+  name: 'RuoYiGit',
   data() {
     return {
-      url: 'https://gitee.com/y_project/JMall-Cloud'
+      url: 'https://gitee.com/y_project/RuoYi-Cloud'
     }
   },
   methods: {

@@ -6,10 +6,10 @@
 
 <script>
 export default {
-  name: 'JMallDoc',
+  name: 'RuoYiDoc',
   data() {
     return {
-      url: 'http://doc.jmall.vip/jmall-cloud'
+      url: 'http://doc.ruoyi.vip/ruoyi-cloud'
     }
   },
   methods: {
